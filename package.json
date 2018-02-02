@@ -1,22 +1,13 @@
 {
-  "name": "ionic3-datepicker",
-  "version": "2.5.1",
-  "description": "A date picker for ionic 3 and 2 framework",
+  "name": "ionic3-datepicker-asr",
+  "version": "1.0.0",
+  "description": "A date picker for ionic 3",
   "main": "index.js",
-  "author": "Paulo Eduardo <pauloedsr@gmail.com>",
+  "author": "Adrian Saenz <adriansaenz15995@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/adriansaenz/ionic3-datepicker"
   },
-  "keywords": [
-    "ionic3-datepicker",
-    "ionic3",
-    "ionic3 datepicker",
-    "datepicker",
-    "datepicker ionic3",
-    "datepicker for ionic3",
-    "datepicker for ionic3 framework"
-  ],
   "scripts": {
     "ngc": "ngc",
     "build": "npm run ngc && node ./scripts/copy-package",
